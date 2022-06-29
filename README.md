@@ -1,41 +1,17 @@
-# Website
+# Painite Website (In development)
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## About
 
-### Installation
+#### Painite - A open-source website for all academic related activites for the students of NIT Trichy. You can find CTs and end semester question papers on this website. Navigate to department from left bar and select year. Then you can find the question paper under respective subject name.
 
-```
-$ yarn
-```
+## Setup
 
-### Local Development
+- Visit painite-tc repo at ```https://github.com/technical-council-nitt/painite-tc```
+- Fork it to your Github account.
+- Clone the forked repo by ```git clone https://github.com/<Your_Username>/painite-tc.git```
+- Open the project in VS Code (or your preffered IDE).
+- Run ```npm install```
+- Run ```npm start```
+- Now you can visit your local build at ```localhost:3000```
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Painite website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
