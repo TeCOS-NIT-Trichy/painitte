@@ -6,12 +6,12 @@
 
 ## Setup
 
-- Visit painite-tc repo at ```https://github.com/technical-council-nitt/painite-tc```
+- Visit painite-tc repo at `https://github.com/technical-council-nitt/painite-tc`
 - Fork it to your Github account.
-- Clone the forked repo by ```git clone https://github.com/<Your_Username>/painite-tc.git```
+- Clone the forked repo by `git clone https://github.com/<Your_Username>/painite-tc.git`
 - Open the project in VS Code (or your preffered IDE).
-- Run ```npm install```
-- Run ```npm start```
-- Now you can visit your local build at ```localhost:3000```
+- Run `npm install`
+- Run `npm start`
+- Now you can visit your local build at `localhost:3000`
 
-Painite website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Painite website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. A simple tool to use.
