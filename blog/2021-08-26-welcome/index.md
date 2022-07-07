@@ -1,25 +1,14 @@
 ---
-slug: welcome
+slug: Welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+tags: [Open Source, TeCOS, docusaurus, Tech, NITT]
+date: 2022-07-08T00:00:00.000Z
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+<!-- [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog). -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## About Painite
 
-Regular blog authors can be added to `authors.yml`.
+**Painite** is an open-source website for all academic related activites for the students of **NIT Trichy**. You can find CTs and end semester question papers on this website. Click on [Academic](http://localhost:3000/docs/intro) and Navigate to your department in the sidebar and select your year. Then you can find question papers under the respective subject name.
 
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Painite is made using [Docusauras 2,](https://docusaurus.io/) a modern static site generator.
