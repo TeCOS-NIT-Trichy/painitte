@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 8.
 
-#### CEIR18 Comprehensive Viva
+### CEIR18 Comprehensive Viva
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### CEIR19 Project work
+### CEIR19 Project work
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Programme Elective XII
+### Programme Elective XII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Programme Elective XIII
+### Programme Elective XIII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Programme Elective XIV
+### Programme Elective XIV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Open Elective V
+### Open Elective V
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Open Elective VI
+### Open Elective VI
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

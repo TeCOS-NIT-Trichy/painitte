@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 7.
 
-#### CEIR16-Internship / Industrial Training / Academic Attachment
+### CEIR16-Internship / Industrial Training / Academic Attachment
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Programme Elective VIII
+### Programme Elective VIII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Programme Elective IX
+### Programme Elective IX
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Programme Elective X
+### Programme Elective X
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Programme Elective XI
+### Programme Elective XI
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Open Elective IV
+### Open Elective IV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

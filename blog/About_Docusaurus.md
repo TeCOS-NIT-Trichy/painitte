@@ -1,6 +1,11 @@
 ---
 slug: About Docusaurus
 title: About Docusaurus
+authors:
+  name: Technical Council
+  title: Technical Council
+  url: https://github.com/technical-council-nitt
+  image_url: https://avatars.githubusercontent.com/u/92578320?s=200&v=4
 date: 2022-07-07T00:02:00.000Z
 ---
 

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 3.
 
-#### HSIR13-Industrial Economics and Foreign Trade
+### HSIR13-Industrial Economics and Foreign Trade
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CEPC11-Mechanics of Solids
+### CEPC11-Mechanics of Solids
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CEPC12-Hydraulics and Fluid Machinery
+### CEPC12-Hydraulics and Fluid Machinery
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CEPC13-Concrete Technology
+### CEPC13-Concrete Technology
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CEPC14-Surveying
+### CEPC14-Surveying
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CELR11-Strength of materials and concrete Laboratory
+### CELR11-Strength of materials and concrete Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CELR12-Survey Laboratory
+### CELR12-Survey Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### Programme Elective I
+### Programme Elective I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

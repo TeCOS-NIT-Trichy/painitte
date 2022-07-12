@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 3.
 
-#### AR201-Computer Applications in Architecture - II
+### AR201-Computer Applications in Architecture - II
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR203-History of Architecture - III
+### AR203-History of Architecture - III
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR205-Structural Analysis
+### AR205-Structural Analysis
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR207-Building Construction and Materials - II
+### AR207-Building Construction and Materials - II
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR209-Surveying and Site Planning
+### AR209-Surveying and Site Planning
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR211-Architectural Design - III
+### AR211-Architectural Design - III
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### AR213-Model Making
+### AR213-Model Making
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

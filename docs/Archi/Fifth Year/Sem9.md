@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 9.
 
-#### AR501-Building Bye-Laws and Codes of Practice
+### AR501-Building Bye-Laws and Codes of Practice
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### AR503-Environment and Behavior
+### AR503-Environment and Behavior
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### AR505-Urban Planning
+### AR505-Urban Planning
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### AR507-Architectural Design - VIII
+### AR507-Architectural Design - VIII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### AR509-Dissertation – I
+### AR509-Dissertation – I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### Elective - IV
+### Elective - IV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 9.
 - Resources:<br/>
   To be added
 
-#### Elective - V
+### Elective - V
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

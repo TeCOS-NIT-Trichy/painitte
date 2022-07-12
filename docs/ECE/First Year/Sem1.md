@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 1.
 
-#### ENIR11-Energy and Environmental Engineering
+### ENIR11-Energy and Environmental Engineering
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### MAIR12-Linear Algebra and Calculus (Mathematics I)
+### MAIR12-Linear Algebra and Calculus (Mathematics I)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### PHIR11-Physics (Circuit)
+### PHIR11-Physics (Circuit)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### PHIR12-Physics Lab (Circuit)
+### PHIR12-Physics Lab (Circuit)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### CSIR11-Introduction to Computer Programming (Theory & lab ) (Circuit)
+### CSIR11-Introduction to Computer Programming (Theory & lab ) (Circuit)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### MEIR11-Basics of Mechanical Engineering (For CE, EE,EC,IC & CS)
+### MEIR11-Basics of Mechanical Engineering (For CE, EE,EC,IC & CS)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### CEIR11-Basics of Civil Engineering (For CE, EE,EC,IC & CS)
+### CEIR11-Basics of Civil Engineering (For CE, EE,EC,IC & CS)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 1.
 - Resources:<br/>
   To be added
 
-#### PRIR11-Engineering Practice
+### PRIR11-Engineering Practice
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

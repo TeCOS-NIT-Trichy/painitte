@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Seventh Semester
 
-#### MB491 Management Concepts and Practices 
+### MB491 Management Concepts and Practices 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -18,7 +18,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### EE401 Power System Economics and Control Techniques
+### EE401 Power System Economics and Control Techniques
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -27,7 +27,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### EE403 Power System Protection and Switchgear
+### EE403 Power System Protection and Switchgear
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -36,7 +36,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### EE405 Industrial Electronics 
+### EE405 Industrial Electronics 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -45,7 +45,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### Elective – II 
+### Elective – II 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -54,7 +54,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### Elective – III
+### Elective – III
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -63,7 +63,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-#### Power System Simulation Laboratory
+### Power System Simulation Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -72,7 +72,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-  #### EE409 Instrumentation Laboratory 
+  ### EE409 Instrumentation Laboratory 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -81,7 +81,7 @@ Seventh Semester
 - Resources:<br/>
   To be added
 
-  #### EE447 Compréhensive Viva- Voce
+  ### EE447 Compréhensive Viva- Voce
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

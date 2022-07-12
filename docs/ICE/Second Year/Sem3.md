@@ -5,7 +5,7 @@ sidebar_position: 1
 # Semester 3
 
 
-#### MAIR34 Probability and Distribution Theory
+### MAIR34 Probability and Distribution Theory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -14,7 +14,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### ICPC12 Circuit Theory
+### ICPC12 Circuit Theory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -23,7 +23,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### ICPC13 Sensors and Transducers 
+### ICPC13 Sensors and Transducers 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -32,7 +32,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### ICPC14 Digital Electronics  
+### ICPC14 Digital Electronics  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -41,7 +41,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### ICPC15 Signals and Systems
+### ICPC15 Signals and Systems
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -50,7 +50,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### ICLR10 Thermodynamics and Fluid Mechanics Laboratory 
+  ### ICLR10 Thermodynamics and Fluid Mechanics Laboratory 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -59,7 +59,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### ICLR11 Circuits and Digital Laboratory 
+  ### ICLR11 Circuits and Digital Laboratory 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -68,7 +68,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Elective – I 
+  ### Elective – I 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

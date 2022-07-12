@@ -5,7 +5,7 @@ sidebar_position: 2
 # Semester 8
 
 
-#### Summer Internship 
+### Summer Internship 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -14,7 +14,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Project Work / Equivalent no. of Electives
+### Project Work / Equivalent no. of Electives
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -23,7 +23,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Elective – XII
+### Elective – XII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -32,7 +32,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Elective – XIII 
+### Elective – XIII 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -41,7 +41,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Elective – XIV  
+### Elective – XIV  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 5.
 
-#### CEPC18-Environmental Engineering-II
+### CEPC18-Environmental Engineering-II
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### CEPC19-Geotechnical Engineering-II
+### CEPC19-Geotechnical Engineering-II
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### CEPC20-Highway and Pavement Engineering
+### CEPC20-Highway and Pavement Engineering
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### CEPC21-Basic Reinforced Concrete Design
+### CEPC21-Basic Reinforced Concrete Design
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### CELR15-Geotechnical Engineering Laboratory
+### CELR15-Geotechnical Engineering Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### CELR16-Environmental Engineering Laboratory
+### CELR16-Environmental Engineering Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### HSIR14-Professional Ethics
+### HSIR14-Professional Ethics
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### Programme Elective IV
+### Programme Elective IV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -80,7 +80,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### Open Elective II
+### Open Elective II
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

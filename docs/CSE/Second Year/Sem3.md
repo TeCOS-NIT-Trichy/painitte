@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 3.
 
-#### MAIR31-Mathematics III – Probability and Operations Research
+### MAIR31-Mathematics III – Probability and Operations Research
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSPC31-Programme Core II / Principles of Programming Languages
+### CSPC31-Programme Core II / Principles of Programming Languages
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSPC32-Programme Core III / Data Structures
+### CSPC32-Programme Core III / Data Structures
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSPC33-Programme Core IV / Digital Systems Design
+### CSPC33-Programme Core IV / Digital Systems Design
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSPC34-Programme Core V / Computer Organization
+### CSPC34-Programme Core V / Computer Organization
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSLR31-Laboratory I / Data Structures Laboratory
+### CSLR31-Laboratory I / Data Structures Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### CSLR32-Laboratory II / Digital Laboratory
+### CSLR32-Laboratory II / Digital Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 3.
 - Resources:<br/>
   To be added
 
-#### Elective-I
+### Elective-I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

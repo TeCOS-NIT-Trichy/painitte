@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Semester 6
 
-#### Industrial Lecture 
+### Industrial Lecture 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PRPC22 Operations Research 
+### PRPC22 Operations Research 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PRPC23 Analysis of Production Systems 
+### PRPC23 Analysis of Production Systems 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PRPC24 Computer Aided Design and Rapid Prototyping  
+### PRPC24 Computer Aided Design and Rapid Prototyping  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PRLR16 Advanced Manufacturing Lab. 
+### PRLR16 Advanced Manufacturing Lab. 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### PRLR17 Industrial Engineering Lab
+  ### PRLR17 Industrial Engineering Lab
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Elective – V 
+  ### Elective – V 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -67,7 +67,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Elective-VI
+  ### Elective-VI
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -76,7 +76,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Elective-VII
+  ### Elective-VII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

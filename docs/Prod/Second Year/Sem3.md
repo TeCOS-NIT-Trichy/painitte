@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Semester 3
 
-#### HSIR13 Industrial Economics and Foreign Trades 
+### HSIR13 Industrial Economics and Foreign Trades 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### PRPC11 Casting and Welding Technology  
+### PRPC11 Casting and Welding Technology  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### PRPC12 Metallurgy and Materials Engineering 
+### PRPC12 Metallurgy and Materials Engineering 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### PRPC13 Fluids and Thermal Engineering 
+### PRPC13 Fluids and Thermal Engineering 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### PRPC14 Forming and Machining Technology
+### PRPC14 Forming and Machining Technology
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### PRLR10 Manufacturing Processes Lab
+  ### PRLR10 Manufacturing Processes Lab
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### PRLR11 Weldability and Formability Lab. 
+  ### PRLR11 Weldability and Formability Lab. 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -67,7 +67,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Elective – I
+  ### Elective – I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

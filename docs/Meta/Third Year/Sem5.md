@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Semester 5
 
-#### Iron Making and Steel Making
+### Iron Making and Steel Making
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Metal Casting Technology
+### Metal Casting Technology
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Materials Joining Technology 
+### Materials Joining Technology 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Metal Forming Technology  
+### Metal Forming Technology  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Foundry and Welding Laboratory
+### Foundry and Welding Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Metal Forming and Particulate Processing Laboratory
+  ### Metal Forming and Particulate Processing Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Professional Ethics (Non-Circuit)
+  ### Professional Ethics (Non-Circuit)
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -67,7 +67,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Elective – IV 
+  ### Elective – IV 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

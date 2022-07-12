@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 8.
 
-#### ECIR18-Comprehensive Viva Voce
+### ECIR18-Comprehensive Viva Voce
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### ECIR17 Project Work/ Equivalent no. of Electives
+### ECIR17 Project Work/ Equivalent no. of Electives
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Elective – XII
+### Elective – XII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Elective – XIII
+### Elective – XIII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 8.
 - Resources:<br/>
   To be added
 
-#### Elective – XIV
+### Elective – XIV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

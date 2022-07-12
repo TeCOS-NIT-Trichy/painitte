@@ -1,6 +1,11 @@
 ---
 slug: Welcome
 tags: [Open Source, TeCOS, docusaurus, Tech, NITT]
+authors:
+  name: Technical Council
+  title: Technical Council
+  url: https://github.com/technical-council-nitt
+  image_url: https://avatars.githubusercontent.com/u/92578320?s=200&v=4
 date: 2022-07-08T00:00:00.000Z
 ---
 
