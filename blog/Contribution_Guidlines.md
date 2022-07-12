@@ -1,6 +1,11 @@
 ---
 slug: Contribution Guidelines
 title: Contribution Guidelines
+authors:
+  name: Technical Council
+  title: Technical Council
+  url: https://github.com/technical-council-nitt
+  image_url: https://avatars.githubusercontent.com/u/92578320?s=200&v=4
 date: 2022-07-05T00:02:00.000Z
 ---
 
