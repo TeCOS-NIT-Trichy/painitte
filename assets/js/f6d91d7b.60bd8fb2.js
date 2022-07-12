@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[819],{2161:e=>{e.exports=JSON.parse('{"title":"Third Year","slug":"/category/third-year-3","permalink":"/docs/category/third-year-3","navigation":{"previous":{"title":"Semester 4","permalink":"/docs/CSE/Second Year/Sem4"},"next":{"title":"Semester 5","permalink":"/docs/CSE/Third Year/Sem5"}}}')}}]);
