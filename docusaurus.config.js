@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: "Instagram",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://www.instagram.com/tc_nitt/?hl=en",
               },
               {
                 label: "Linktree",
