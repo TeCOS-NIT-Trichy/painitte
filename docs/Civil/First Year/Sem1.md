@@ -6,27 +6,85 @@ sidebar_position: 1
 
 ### Intro
 
-First semester welcome to college.
-#### Subject 1
+Welcome to semester 1.
 
-CT 1 - [Here](https://www.instagram.com/jai_akash03)
-CT 2 - Here
-End sem - Here
+### HSIR11-English for Communication (Theory)
 
-#### Subject 2
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
 
-CT 1 - [Here](https://www.instagram.com/jai_akash03)
-CT 2 - Here
-End sem - Here
+### HSIR11-English for Communication (Lab)
 
-#### Subject 3
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
 
-CT 1 - [Here](https://www.instagram.com/jai_akash03)
-CT 2 - Here
-End sem - Here
+### MAIR11-Matrices and Calculus
 
-#### Subject 4
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
 
-CT 1 - [Here](https://www.instagram.com/jai_akash03)
-CT 2 - Here
-End sem - Here
+### CHIR11-Chemistry
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
+
+### CHIR12-Chemistry Lab
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
+
+### CEIR15-Introduction to Civil Engineering
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
+
+### EEIR11-Basics of Electrical and Electronics Engineering
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
+
+### MEIR11-Basics of Mechanical Engineering
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
+
+### MEIR12-Engineering Graphics
+
+- Question Papers:<br/>
+  [CT-1](https://www.google.com) &nbsp; | &nbsp;
+  [CT-2](https://www.google.com) &nbsp; | &nbsp;
+  [End sem](https://www.google.com)
+- Resources:<br/>
+  To be added
