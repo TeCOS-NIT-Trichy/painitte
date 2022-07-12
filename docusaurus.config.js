@@ -1,53 +1,55 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Painite',
-  tagline: 'Painite project - to-go website for nitt students for all academic infomations.',
-  url: 'https://painite.nitt.edu',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  title: "Painite",
+  tagline:
+    "Painite project - to-go website for nitt students for all academic infomations.",
+  // url: "https://painite.nitt.edu",
+  url: "http://192.168.1.3:3000/",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Technical Council, NIT Trichy', // Usually your GitHub org/user name.
-  projectName: 'painite-tc', // Usually your repo name.
+  organizationName: "Technical Council, NIT Trichy", // Usually your GitHub org/user name.
+  projectName: "painite-tc", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/technical-council-nitt/painite-tc/tree/main/',
+            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/technical-council-nitt/painite-tc/tree/main/',
+            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -57,69 +59,69 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Painite',
+        title: "Painite",
         logo: {
-          alt: 'Painite Logo',
-          src: 'img/logo.svg',
+          alt: "Painite Logo",
+          src: "img/logo.svg",
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Academic',
+            type: "doc",
+            docId: "intro",
+            position: "left",
+            label: "Academic",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: "/blog", label: "Blog", position: "left" },
           {
-            href: 'https://github.com/technical-council-nitt/painite-tc',
-            label: 'GitHub Project',
-            position: 'right',
+            href: "https://github.com/technical-council-nitt/painite-tc",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Quick Links',
+            title: "Quick Links",
             items: [
               {
-                label: 'Academic',
-                to: '/docs/intro',
+                label: "Academic",
+                to: "/docs/intro",
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
           {
-            title: 'Links',
+            title: "Links",
             items: [
               {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/company/technical-council-nit-trichy?originalSubdomain=in',
+                label: "Linkedin",
+                href: "https://www.linkedin.com/company/technical-council-nit-trichy?originalSubdomain=in",
               },
               {
-                label: 'Instagram',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "Instagram",
+                href: "https://discordapp.com/invite/docusaurus",
               },
               {
-                label: 'Linktree',
-                href: 'https://linktr.ee/TechnicalCouncilNITT',
+                label: "Linktree",
+                href: "https://linktr.ee/TechnicalCouncilNITT",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/technical-council-nitt/painite-tc',
+                label: "GitHub",
+                href: "https://github.com/technical-council-nitt/painite-tc",
               },
             ],
           },
@@ -129,6 +131,20 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "L13U85UN7G",
+
+        // Public API key: it is safe to commit it
+        apiKey: "4589944e8eb7f68137cdd35028ef7b47",
+
+        indexName: "painite_tc",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        placeHolder: "Search anything...",
       },
     }),
 };
