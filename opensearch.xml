@@ -4,8 +4,8 @@
   <ShortName>Painite</ShortName>
   <Description>Search Painite</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">http://192.168.1.3:3000/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="http://192.168.1.3:3000/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="http://192.168.1.3:3000/opensearch.xml" />
-  <moz:SearchForm>http://192.168.1.3:3000/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://technical-council-nitt.github.io/painite-tc/painite-tc/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://technical-council-nitt.github.io/painite-tc/painite-tc/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://technical-council-nitt.github.io/painite-tc/painite-tc/opensearch.xml" />
+  <moz:SearchForm>https://technical-council-nitt.github.io/painite-tc/painite-tc/</moz:SearchForm>
 </OpenSearchDescription>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Painite Blog</title>
-        <link>http://192.168.1.3:3000/blog</link>
+        <link>https://technical-council-nitt.github.io/painite-tc/painite-tc/blog</link>
         <description>Painite Blog</description>
         <lastBuildDate>Fri, 08 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>http://192.168.1.3:3000/blog/Welcome</link>
+            <link>https://technical-council-nitt.github.io/painite-tc/painite-tc/blog/Welcome</link>
             <guid>Welcome</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[About Painite]]></description>

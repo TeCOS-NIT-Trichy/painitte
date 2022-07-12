@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[6797],{4207:t=>{t.exports=JSON.parse('{"label":"TeCOS","permalink":"/painite-tc/blog/tags/te-cos","allTagsPath":"/painite-tc/blog/tags","count":1}')}}]);

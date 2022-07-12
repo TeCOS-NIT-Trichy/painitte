@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[9587],{1796:e=>{e.exports=JSON.parse('{"title":"First Year","slug":"/category/first-year-3","permalink":"/docs/category/first-year-3","navigation":{"previous":{"title":"Home","permalink":"/docs/CSE/"},"next":{"title":"Semester 1","permalink":"/docs/CSE/First Year/Sem1"}}}')}}]);

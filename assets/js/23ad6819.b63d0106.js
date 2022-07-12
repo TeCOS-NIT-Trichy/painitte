@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[9733],{9474:e=>{e.exports=JSON.parse('{"label":"Open Source","permalink":"/painite-tc/blog/tags/open-source","allTagsPath":"/painite-tc/blog/tags","count":1}')}}]);

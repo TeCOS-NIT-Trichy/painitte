@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[3519],{7168:e=>{e.exports=JSON.parse('{"title":"Civil Engineering","slug":"/category/civil-engineering","permalink":"/docs/category/civil-engineering","navigation":{"previous":{"title":"Semester 8","permalink":"/docs/Chem/Fourth Year/Sem8"},"next":{"title":"Home","permalink":"/docs/Civil/"}}}')}}]);
