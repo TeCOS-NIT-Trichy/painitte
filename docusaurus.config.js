@@ -9,9 +9,8 @@ const config = {
   title: "Painite",
   tagline:
     "Painite project - to-go website for nitt students for all academic infomations.",
-  // url: "https://painite.nitt.edu",
-  url: "http://192.168.1.3:3000/",
-  baseUrl: "/",
+  url: "https://technical-council-nitt.github.io/painite-tc/",
+  baseUrl: "/painite-tc/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
