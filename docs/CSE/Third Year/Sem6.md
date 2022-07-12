@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 6.
 
-#### CSIR61-Industrial Lecture
+### CSIR61-Industrial Lecture
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### CSPC61-Programme Core XIII / Embedded Systems Architectures
+### CSPC61-Programme Core XIII / Embedded Systems Architectures
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### CSPC62-Programme Core XIV / Compiler Design
+### CSPC62-Programme Core XIV / Compiler Design
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### CSPC63-Programme Core XV / Principles of Cryptography
+### CSPC63-Programme Core XV / Principles of Cryptography
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### CSLR61-Laboratory VII / Embedded Systems Laboratory
+### CSLR61-Laboratory VII / Embedded Systems Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### CSLR62-Laboratory VIII / App Development Laboratory
+### CSLR62-Laboratory VIII / App Development Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### HSIR14-Professional Ethics
+### HSIR14-Professional Ethics
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### Elective VI
+### Elective VI
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -80,7 +80,7 @@ Welcome to semester 6.
 - Resources:<br/>
   To be added
 
-#### Elective VII
+### Elective VII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

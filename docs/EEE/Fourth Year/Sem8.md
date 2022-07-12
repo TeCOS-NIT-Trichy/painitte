@@ -9,7 +9,7 @@ sidebar_position: 2
 
 Second Semester
 
-#### AR101-Environmental Science
+### AR101-Environmental Science
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -18,7 +18,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR103-History of Architecture - I
+### AR103-History of Architecture - I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -27,7 +27,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR105-Theory of Architecture
+### AR105-Theory of Architecture
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -36,7 +36,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR107-Architectural Graphics - I
+### AR107-Architectural Graphics - I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -45,7 +45,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR109-Communicative English
+### AR109-Communicative English
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -54,7 +54,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR111-Basic and Architectural Design - I
+### AR111-Basic and Architectural Design - I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -63,7 +63,7 @@ Second Semester
 - Resources:<br/>
   To be added
 
-#### AR113-Visual Arts - I
+### AR113-Visual Arts - I
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

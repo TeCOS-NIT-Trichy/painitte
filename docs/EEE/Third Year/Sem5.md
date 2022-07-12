@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Fifth Semester
 
-#### EE301 Power System Analysis
+### EE301 Power System Analysis
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -18,7 +18,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EE303 Control Systems 
+### EE303 Control Systems 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -27,7 +27,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EE305 Linear Integrated Circuits 
+### EE305 Linear Integrated Circuits 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -36,7 +36,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EE307 High Voltage Engineering 
+### EE307 High Voltage Engineering 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -45,7 +45,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EE309 Data Structures and C++ 
+### EE309 Data Structures and C++ 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -54,7 +54,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EC319 Communication Systems
+### EC319 Communication Systems
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -63,7 +63,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-#### EE311 Integrated Circuits Laboratory
+### EE311 Integrated Circuits Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -72,7 +72,7 @@ Fifth Semester
 - Resources:<br/>
   To be added
 
-  #### EE313 Computer Software Laboratory
+  ### EE313 Computer Software Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Semester 6
 
-#### Industrial Lecture
+### Industrial Lecture
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Non-Ferrous Metallurgy
+### Non-Ferrous Metallurgy
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Material Characterization 
+### Material Characterization 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Corrosion Engineering 
+### Corrosion Engineering 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Non-Ferrous Metallography and Characterization Laboratory
+### Non-Ferrous Metallography and Characterization Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Corrosion and Surface Engineering Laboratory
+  ### Corrosion and Surface Engineering Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Elective – V 
+  ### Elective – V 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -67,7 +67,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Elective – VI 
+  ### Elective – VI 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -75,7 +75,7 @@ sidebar_position: 2
   [End sem](https://www.google.com)
 - Resources:<br/>
   To be added
-  #### Elective – VII 
+  ### Elective – VII 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

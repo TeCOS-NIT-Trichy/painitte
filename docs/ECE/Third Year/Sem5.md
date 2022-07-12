@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 5.
 
-#### ECPC18-Analog Communication
+### ECPC18-Analog Communication
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### ECPC19-Digital Communication
+### ECPC19-Digital Communication
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### ECPC20-Antennas and Propagation
+### ECPC20-Antennas and Propagation
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### ECPC21-Analog Integrated Circuits
+### ECPC21-Analog Integrated Circuits
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### ECLR14-Analog VLSI & Embedded System Design Laboratory
+### ECLR14-Analog VLSI & Embedded System Design Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -53,7 +53,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### ECLR15-Digital Signal Processing Laboratory
+### ECLR15-Digital Signal Processing Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -62,7 +62,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### Elective – IV
+### Elective – IV
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -71,7 +71,7 @@ Welcome to semester 5.
 - Resources:<br/>
   To be added
 
-#### Elective – V
+### Elective – V
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

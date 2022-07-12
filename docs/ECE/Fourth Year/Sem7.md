@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to semester 7.
 
-#### ECIR16-Summer Internship
+### ECIR16-Summer Internship
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -17,7 +17,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Elective – VIII
+### Elective – VIII
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -26,7 +26,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Elective – IX
+### Elective – IX
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Elective – X
+### Elective – X
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -44,7 +44,7 @@ Welcome to semester 7.
 - Resources:<br/>
   To be added
 
-#### Elective – XI
+### Elective – XI
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

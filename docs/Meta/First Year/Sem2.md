@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Semester 2
 
-#### ENIR11 Energy and Environmental Engineering 
+### ENIR11 Energy and Environmental Engineering 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### Complex Analysis and Differential Equations  
+### Complex Analysis and Differential Equations  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PHIR11 Physics 
+### PHIR11 Physics 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### PHIR12 Physics Lab  
+### PHIR12 Physics Lab  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-#### CSIR11 Introduction to Computer Programming (Theory & lab ) 
+### CSIR11 Introduction to Computer Programming (Theory & lab ) 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### Engineering Mechanics and Strength of Materials
+  ### Engineering Mechanics and Strength of Materials
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### PRIR11 Engineering Practice 
+  ### PRIR11 Engineering Practice 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -67,7 +67,7 @@ sidebar_position: 2
 - Resources:<br/>
   To be added
 
-  #### CEIR11 Basics of Civil Engineering
+  ### CEIR11 Basics of Civil Engineering
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;

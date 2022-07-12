@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Semester 3
 
-#### Industrial Economics and Foreign Trades 
+### Industrial Economics and Foreign Trades 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -13,7 +13,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Metallurgical Thermodynamics and kinetics 
+### Metallurgical Thermodynamics and kinetics 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -22,7 +22,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Physical Metallurgy
+### Physical Metallurgy
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -31,7 +31,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Electrical, Electronic and Magnetic Materials  
+### Electrical, Electronic and Magnetic Materials  
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -40,7 +40,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-#### Polymers, Composites and Ceramics
+### Polymers, Composites and Ceramics
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -49,7 +49,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  ####  Polymers, Composites and Ceramics Laboratory
+  ###  Polymers, Composites and Ceramics Laboratory
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
@@ -58,7 +58,7 @@ sidebar_position: 1
 - Resources:<br/>
   To be added
 
-  #### Elective – I 
+  ### Elective – I 
 
 - Question Papers:<br/>
   [CT-1](https://www.google.com) &nbsp; | &nbsp;
