@@ -9,7 +9,8 @@ const config = {
   title: "Painite",
   tagline:
     "Painite project - to-go website for nitt students for all academic infomations.",
-  url: "https://painite.nitt.edu",
+  // url: "https://painite.nitt.edu",
+  url: "http://192.168.1.3:3000/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -73,7 +74,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/technical-council-nitt/painite-tc",
-            label: "GitHub Project",
+            label: "GitHub",
             position: "right",
           },
         ],
@@ -130,6 +131,20 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "L13U85UN7G",
+
+        // Public API key: it is safe to commit it
+        apiKey: "4589944e8eb7f68137cdd35028ef7b47",
+
+        indexName: "painite_tc",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        placeHolder: "Search anything...",
       },
     }),
 };
