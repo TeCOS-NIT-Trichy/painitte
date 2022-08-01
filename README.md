@@ -1,4 +1,4 @@
-# Painite Website (In development)
+# Painite Website
 
 ## About
 
