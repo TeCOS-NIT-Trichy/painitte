@@ -4,6 +4,8 @@
 
 #### Painite - A open-source website for all academic related activites for the students of NIT Trichy. You can find CTs and end semester question papers on this website. Navigate to department from left bar and select year. Then you can find the question paper under respective subject name.
 
+#### Gform link - https://docs.google.com/forms/d/e/1FAIpQLSdeCllr_G_aUtbmahfpSNTyCGK9qhZccjqpyXIX9GPqZ-zh3g/viewform
+
 ## Setup
 
 - Visit painite-tc repo at `https://github.com/technical-council-nitt/painite-tc`
