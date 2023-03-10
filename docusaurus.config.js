@@ -10,7 +10,7 @@ const config = {
   tagline:
     "Painite project | to-go website for nitt students for all academic infomations.",
   url: "https://technical-council-nitt.github.io/painite-tc/",
-  baseUrl: "/painite-tc/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
