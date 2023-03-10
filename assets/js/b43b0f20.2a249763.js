@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[5784],{7439:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/painite/blog/tags/docusaurus","allTagsPath":"/painite/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[699],{5421:t=>{t.exports=JSON.parse('{"label":"Tech","permalink":"/painite-tc/blog/tags/tech","allTagsPath":"/painite-tc/blog/tags","count":1}')}}]);
