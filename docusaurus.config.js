@@ -9,7 +9,7 @@ const config = {
   title: "Painite",
   tagline:
     "Painite project | to-go website for nitt students for all academic infomations.",
-  url: "https://technical-council-nitt.github.io/painite-tc/",
+  url: "https://technical-council-nitt.github.io",
   baseUrl: "/painite-tc/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
