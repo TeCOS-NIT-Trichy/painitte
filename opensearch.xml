@@ -4,8 +4,8 @@
   <ShortName>Painite</ShortName>
   <Description>Search Painite</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://tecos-nit-trichy.github.io/painite/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://tecos-nit-trichy.github.io/painite/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://tecos-nit-trichy.github.io/painite/opensearch.xml" />
-  <moz:SearchForm>https://tecos-nit-trichy.github.io/painite/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://tecos-nit-trichy.github.io/painitte/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://tecos-nit-trichy.github.io/painitte/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tecos-nit-trichy.github.io/painitte/opensearch.xml" />
+  <moz:SearchForm>https://tecos-nit-trichy.github.io/painitte/</moz:SearchForm>
 </OpenSearchDescription>
