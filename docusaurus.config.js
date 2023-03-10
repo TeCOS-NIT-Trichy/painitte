@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Painite",
   tagline:
-    "Painite project - to-go website for nitt students for all academic infomations.",
+    "Painite project | to-go website for nitt students for all academic infomations.",
   url: "https://technical-council-nitt.github.io/painite-tc/",
   baseUrl: "/painite-tc/",
   onBrokenLinks: "throw",
@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Made with ❤️ by Technical Council, NIT Trichy. Built with Docusaurus.`,
+        copyright: `Made with ❤️ by Technical Council, NIT Trichy. Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
