@@ -10,7 +10,7 @@ const config = {
   tagline:
     "Painite project | to-go website for nitt students for all academic infomations.",
   url: "https://tecos-nit-trichy.github.io",
-  baseUrl: "/painite/",
+  baseUrl: "/painitte/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
