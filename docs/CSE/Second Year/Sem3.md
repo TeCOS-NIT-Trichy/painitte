@@ -11,71 +11,71 @@ Welcome to semester 3.
 ### MAIR31-Mathematics III – Probability and Operations Research
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSPC31-Programme Core II / Principles of Programming Languages
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSPC32-Programme Core III / Data Structures
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSPC33-Programme Core IV / Digital Systems Design
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSPC34-Programme Core V / Computer Organization
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSLR31-Laboratory I / Data Structures Laboratory
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### CSLR32-Laboratory II / Digital Laboratory
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### Elective-I
 
 - Question Papers:<br/>
-  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
