@@ -46,9 +46,9 @@ Never made an open source contribution before? Wondering how contributions work 
 
 #### Set-Up:
 
-- **Fork** the repository associated with the issue to your local GitHub organization from [`https://github.com/TeCOS-NIT-Trichy/painitte`](https://github.com/TeCOS-NIT-Trichy/painitte). This means that you will have a copy of the repository under **Your-GitHub-Username/painite-tc**.
+- **Fork** the repository associated with the issue to your local GitHub organization from [`https://github.com/TeCOS-NIT-Trichy/painitte`](https://github.com/TeCOS-NIT-Trichy/painitte). This means that you will have a copy of the repository under **Your-GitHub-Username/painite**.
 
-- Clone the repository to your local machine using **git clone [https://github.com/<_YOUR_USERNAME_>/painite-tc.git](https://github.com/github-username/repository-name.git)**.
+- Clone the repository to your local machine using **git clone [https://github.com/<_YOUR_USERNAME_>/painitte.git](https://github.com/github-username/repository-name.git)**.
 - Now you will have a local repo of this project saved in your system.
 - Open the project in VS Code (or your preffered IDE).
 - Run `npm install` or `npm i` to install all the neccessary dependencies for the project.
