@@ -4,7 +4,7 @@
 
 #### PaiNITTe - A open-source website for all academic related activites for the students of NIT Trichy. You can find CTs and end semester question papers on this website. Navigate to department from left bar and select year. Then you can find the question paper under respective subject name
 
-#### Gform link - <https://forms.gle/DHwzykjVnttFGzQq5>
+#### Gform link - https://forms.gle/eeM28bcrvYSvDRKn9
 
 ## Setup
 
