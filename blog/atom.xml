@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tecos-nit-trichy.github.io/painitte/blog</id>
-    <title>Painite Blog</title>
+    <title>PaiNITTe Blog</title>
     <updated>2022-07-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tecos-nit-trichy.github.io/painitte/blog"/>
-    <subtitle>Painite Blog</subtitle>
+    <subtitle>PaiNITTe Blog</subtitle>
     <icon>https://tecos-nit-trichy.github.io/painitte/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
