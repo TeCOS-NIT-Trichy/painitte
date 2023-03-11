@@ -7,80 +7,80 @@ sidebar_position: 2
 ### Industrial Lecture 
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### PRPC22 Operations Research 
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### PRPC23 Analysis of Production Systems 
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### PRPC24 Computer Aided Design and Rapid Prototyping  
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
 ### PRLR16 Advanced Manufacturing Lab. 
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
   ### PRLR17 Industrial Engineering Lab
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
   ### Elective – V 
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
   ### Elective-VI
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
 
   ### Elective-VII
 
 - Question Papers:<br/>
-  [CT-1](https://www.google.com) &nbsp; | &nbsp;
-  [CT-2](https://www.google.com) &nbsp; | &nbsp;
-  [End sem](https://www.google.com)
+  [CT-1](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [End sem](https://https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
