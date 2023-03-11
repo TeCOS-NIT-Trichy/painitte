@@ -37,15 +37,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
+          editUrl: "https://github.com/TeCOS-NIT-Trichy/painitte/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
+          editUrl: "https://github.com/TeCOS-NIT-Trichy/painitte/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -72,7 +70,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/technical-council-nitt/painite-tc",
+            href: "https://github.com/TeCOS-NIT-Trichy/painitte",
             label: "GitHub",
             position: "right",
           },
@@ -103,7 +101,7 @@ const config = {
               },
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/tc_nitt/?hl=en",
+                href: "https://www.instagram.com/tecos.nitt/?hl=en",
               },
               {
                 label: "Linktree",
@@ -120,7 +118,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/technical-council-nitt/painite-tc",
+                href: "https://github.com/TeCOS-NIT-Trichy/painitte",
               },
             ],
           },

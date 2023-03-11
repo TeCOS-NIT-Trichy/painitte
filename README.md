@@ -8,7 +8,7 @@
 
 ## Setup
 
-- Visit painite-tc repo at `https://github.com/technical-council-nitt/painite-tc`
+- Visit paiNITTe-tc repo at `https://github.com/TeCOS-NIT-Trichy/painitte`
 - Fork it to your Github account.
 - Clone the forked repo by `git clone https://github.com/<Your_Username>/painite-tc.git`
 - Open the project in VS Code (or your preffered IDE).
@@ -23,4 +23,4 @@
 ![Screenshot from 2022-07-12 09-07-53](https://user-images.githubusercontent.com/33419526/178404409-b1edabc8-7ca3-4a41-adb6-5d1f5bd999b0.png)
 ![Screenshot from 2022-07-12 09-08-02](https://user-images.githubusercontent.com/33419526/178404417-dd064754-fb84-436d-a95f-d713d22892f1.png)
 
-Painite website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. A simple tool to use.
+PaiNITTe website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. A simple tool to use.
