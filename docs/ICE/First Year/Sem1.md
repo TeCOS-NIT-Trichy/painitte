@@ -43,7 +43,8 @@ First Semester
   [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
   [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
-  - https://drive.google.com/drive/folders/1SGk_EqcwoURZCrSVNEgjT455hnFGWzX6?usp=sharing
+  - Experiment Videos - https://drive.google.com/drive/folders/1SGk_EqcwoURZCrSVNEgjT455hnFGWzX6?usp=sharing
+  - Manual - https://drive.google.com/file/d/1umz4324Y-j5qlPwBdXJjbdOKSVom9OG9/view?usp=share_link
 
 ### CSIR11 Introduction to Computer Programming (Theory & lab ) 
 
