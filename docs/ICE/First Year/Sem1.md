@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ### Intro
 
-Eighth Semester
+First Semester
 
 ### ENIR11 Energy and Environmental Engineering 
 
@@ -43,7 +43,7 @@ Eighth Semester
   [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
   [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
-  To be added
+  - https://drive.google.com/drive/folders/1SGk_EqcwoURZCrSVNEgjT455hnFGWzX6?usp=sharing
 
 ### CSIR11 Introduction to Computer Programming (Theory & lab ) 
 
