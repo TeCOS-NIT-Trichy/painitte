@@ -26,7 +26,7 @@ sidebar_position: 2
 
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
+  [CT-2](https://drive.google.com/file/d/16GtohxaoDQpW5DuLoHxFDj8HmLP4sUhA/view) &nbsp; | &nbsp;
   [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
   To be added
