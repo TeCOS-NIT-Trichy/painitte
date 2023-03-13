@@ -6,11 +6,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Painite",
+  title: "PaiNITTe",
   tagline:
-    "Painite project | to-go website for nitt students for all academic infomations.",
-  url: "https://technical-council-nitt.github.io/painite-tc/",
-  baseUrl: "/painite-tc/",
+    "PaiNITTe project | to-go website for nitt students for all academic infomations.",
+  url: "https://tecos-nit-trichy.github.io",
+  baseUrl: "/painitte/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Technical Council, NIT Trichy", // Usually your GitHub org/user name.
-  projectName: "painite-tc", // Usually your repo name.
+  projectName: "painitte-tc", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,15 +37,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
+          editUrl: "https://github.com/TeCOS-NIT-Trichy/painitte/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/technical-council-nitt/painite-tc/tree/main/",
+          editUrl: "https://github.com/TeCOS-NIT-Trichy/painitte/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -58,7 +56,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Painite",
+        title: "PaiNITTe",
         logo: {
           alt: "Painite Logo",
           src: "img/logo.svg",
@@ -72,7 +70,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/technical-council-nitt/painite-tc",
+            href: "https://github.com/TeCOS-NIT-Trichy/painitte",
             label: "GitHub",
             position: "right",
           },
@@ -103,7 +101,7 @@ const config = {
               },
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/tc_nitt/?hl=en",
+                href: "https://www.instagram.com/tecos.nitt/?hl=en",
               },
               {
                 label: "Linktree",
@@ -120,7 +118,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/technical-council-nitt/painite-tc",
+                href: "https://github.com/TeCOS-NIT-Trichy/painitte",
               },
             ],
           },

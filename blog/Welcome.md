@@ -11,11 +11,11 @@ date: 2022-07-08T00:00:00.000Z
 
 <!-- [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog). -->
 
-## About Painite
+## About PaiNITTe
 
-**Painite** is an open-source website for all academic related activites for the students of **NIT Trichy**. You can find CTs and end semester question papers on this website. Click on [Academic](http://localhost:3000/docs/intro) and Navigate to your department in the sidebar and select your year. Then you can find question papers under the respective subject name.
+**PaiNITTe** is an open-source website for all academic related activites for the students of **NIT Trichy**. You can find CTs and end semester question papers on this website. Click on [Academic](http://localhost:3000/docs/intro) and Navigate to your department in the sidebar and select your year. Then you can find question papers under the respective subject name.
 
-Painite is made using [Docusauras 2,](https://docusaurus.io/) a modern static site generator.
+PaiNITTe is made using [Docusauras 2,](https://docusaurus.io/) a modern static site generator.
 
 ## About Docusaurus
 
@@ -31,7 +31,7 @@ To learn more about Docusaurus click the [link](https://docusaurus.io/blog/2017/
 
 ### What do I need to know to help 🤔?
 
-If you are looking to help to with a code contribution our project, look for tags which you like to work on. If you are **beginner** and want to do your first contribution check [good first issue](https://github.com/technical-council-nitt/painite-tc/labels/good%20first%20issue) . If you don't feel ready to make a code contribution yet, no problem! You can also check out the documentation issues [`documentation`](https://github.com/technical-council-nitt/painite-tc/labels/documentation) or the design issues that we have [`design`](https://github.com/technical-council-nitt/painite-tc/labels/design).
+If you are looking to help to with a code contribution our project, look for tags which you like to work on. If you are **beginner** and want to do your first contribution check [good first issue](https://github.com/TeCOS-NIT-Trichy/painitte/labels/good%20first%20issue) . If you don't feel ready to make a code contribution yet, no problem! You can also check out the documentation issues [`documentation`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/documentation) or the design issues that we have [`design`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/design).
 
 If you are interested in making a code contribution and would like to learn more about open source and the technologies that we use, check out the list below.
 
@@ -46,9 +46,9 @@ Never made an open source contribution before? Wondering how contributions work 
 
 #### Set-Up:
 
-- **Fork** the repository associated with the issue to your local GitHub organization from [`https://github.com/technical-council-nitt/painite-tc`](https://github.com/technical-council-nitt/painite-tc). This means that you will have a copy of the repository under **Your-GitHub-Username/painite-tc**.
+- **Fork** the repository associated with the issue to your local GitHub organization from [`https://github.com/TeCOS-NIT-Trichy/painitte`](https://github.com/TeCOS-NIT-Trichy/painitte). This means that you will have a copy of the repository under **Your-GitHub-Username/painite**.
 
-- Clone the repository to your local machine using **git clone [https://github.com/<_YOUR_USERNAME_>/painite-tc.git](https://github.com/github-username/repository-name.git)**.
+- Clone the repository to your local machine using **git clone [https://github.com/<_YOUR_USERNAME_>/painitte.git](https://github.com/github-username/repository-name.git)**.
 - Now you will have a local repo of this project saved in your system.
 - Open the project in VS Code (or your preffered IDE).
 - Run `npm install` or `npm i` to install all the neccessary dependencies for the project.
@@ -72,7 +72,7 @@ Never made an open source contribution before? Wondering how contributions work 
 
 ### Where can I go for help 🤨?
 
-If you need help, you can ask questions on our [discord](https://dicord.com) channel.
+If you need help, you can ask questions on our [whatsapp](https://chat.whatsapp.com/CQ0LXqibJjCESfdnWrIbRR) group.
 
 ### What does the Code of Conduct ⚖️ mean for me ?
 
