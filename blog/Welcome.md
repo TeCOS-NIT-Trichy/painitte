@@ -72,7 +72,7 @@ Never made an open source contribution before? Wondering how contributions work 
 
 ### Where can I go for help 🤨?
 
-If you need help, you can ask questions on our [discord](https://discord.com) channel.
+If you need help, you can ask questions on our [whatsapp](https://chat.whatsapp.com/CQ0LXqibJjCESfdnWrIbRR) group.
 
 ### What does the Code of Conduct ⚖️ mean for me ?
 
