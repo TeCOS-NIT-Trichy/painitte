@@ -3,7 +3,7 @@ slug: Welcome
 
 tags: [Open Source, TeCOS, docusaurus, Tech, NITT]
 
-authors:
+authors: []
 
 name: Technical Council
 
