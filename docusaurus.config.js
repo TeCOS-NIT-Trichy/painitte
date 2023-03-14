@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "PaiNITTe",
   tagline:
-    "PaiNITTe project | to-go website for nitt students for all academic infomations.",
+    "PaiNITTe project | go-to website for nitt students for all academic infomations.",
   url: "https://tecos-nit-trichy.github.io",
   baseUrl: "/painitte/",
   onBrokenLinks: "throw",
