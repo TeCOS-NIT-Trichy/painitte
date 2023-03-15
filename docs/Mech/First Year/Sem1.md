@@ -34,35 +34,30 @@ sidebar_position: 1
 ### CHIR11 Chemistry 
 
 - Question Papers:<br/>
-  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://drive.google.com/file/d/1YnYlVPTxnQh6lYJz7CNrjoYh4Ma_llw6/view?usp=share_link) &nbsp; | &nbsp;
+  [CT-2](https://drive.google.com/file/d/1wR99cjhBAFZKL9W3LPeVEiRnOOKizleR/view?usp=share_link) &nbsp; | &nbsp;
+  [End sem](https://drive.google.com/file/d/1wR99cjhBAFZKL9W3LPeVEiRnOOKizleR/view?usp=share_link)
 - Resources:<br/>
-  To be added
+  [Link](https://drive.google.com/drive/folders/1wY1lEVff26n7SSMOWrh48xPHqbSM1a4e?usp=share_link)
 
 ### CHIR12 Chemistry Lab
 
-- Question Papers:<br/>
-  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
 - Resources:<br/>
-  To be added
+  [Lab Manual](https://drive.google.com/file/d/1USO5Ej0KjH1QGnO80HY88BP6_PXmzGk-/view?usp=share_link)
 
 ### MEIR15 Introduction to Mechanical Engineering
 
 - Question Papers:<br/>
-  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [Mid sem](https://drive.google.com/file/d/1IUdl-hiQPkHZfGG3Z2r-eh6Uf7sLt7pL/view?usp=share_link) &nbsp; | &nbsp;
+  [End sem](https://drive.google.com/file/d/1dBvF96YY4lqS_lWGGhX-SZNcpuEUilyq/view?usp=share_link)
 - Resources:<br/>
-  To be added
+  [Link](https://drive.google.com/drive/folders/11Y6TNEUwhGs5EL5Ox3baTNrEXPlbW97I?usp=share_link)
 
   ### Engineering Graphics 
 
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
   [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [End sem](https://drive.google.com/file/d/1SGXV_BRP_-PTiQZrCHRNc-gkNuIyuRq8/view?usp=share_link)
 - Resources:<br/>
-  To be added
+  [Link](https://drive.google.com/drive/folders/1rCFOUsMjKyrJO38uc5-xV4KJZ8HP0emF?usp=share_link)

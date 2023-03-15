@@ -9,7 +9,7 @@ sidebar_position: 1
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
   [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [End sem](https://drive.google.com/file/d/16h681OyWCZewo7kou53RYaRB8aW17f27/view?usp=sharing)
 - Resources:<br/>
   To be added
   https://drive.google.com/drive/folders/1NJNC61I3L5FycqL9bq8WTRHmkeDuudOD
