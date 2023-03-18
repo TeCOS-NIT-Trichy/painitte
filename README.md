@@ -1,6 +1,6 @@
 # PaiNITTe Website
 
-## About PainiTTe
+## About PaiNITTe
 
 **PaiNITTe** is an open-source website for all academic related activites for the students of **NIT Trichy**. You can find CTs and end semester question papers on this website. Click on [Academic](https://technical-council-nitt.github.io/painite-tc/docs/intro) and Navigate to your department in the sidebar and select your year. Then you can find question papers under the respective subject name.
 
@@ -18,9 +18,9 @@ To learn more about Docusaurus click the [link](https://docusaurus.io/blog/2017/
 
 ## Contribution Guidelines
 
-### What do I need to know to help 🤔?
+### What do I need to know to help/contribute🤔?
 
-If you are looking to help to with a code contribution our project, look for tags which you like to work on. If you are **beginner** and want to do your first contribution check [good first issue](https://github.com/TeCOS-NIT-Trichy/painitte/labels/good%20first%20issue) . If you don't feel ready to make a code contribution yet, no problem! You can also check out the documentation issues [`documentation`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/documentation) or the design issues that we have [`design`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/design).
+If you are looking to help us with a code contribution to our project, look for tags which you like to work on. If you are **beginner** and want to do your first contribution check [good first issue](https://github.com/TeCOS-NIT-Trichy/painitte/labels/good%20first%20issue) . If you don't feel ready to make a code contribution yet, no problem! You can also check out the documentation issues [`documentation`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/documentation) or the design issues that we have [`design`](https://github.com/TeCOS-NIT-Trichy/painitte/labels/design).
 
 If you are interested in making a code contribution and would like to learn more about open source and the technologies that we use, check out the list below.
 
@@ -44,7 +44,7 @@ Never made an open source contribution before? Wondering how contributions work 
 
 - Now you will have a local repo of this project saved in your system.
 
-- Open the project in VS Code (or your preffered IDE).
+- Open the project in VS Code (or your preferred IDE).
 
 - Run `npm install` or `npm i` to install all the neccessary dependencies for the project.
 
@@ -52,7 +52,7 @@ Never made an open source contribution before? Wondering how contributions work 
 
 - Now you can visit your local build at `http://localhost:3000`.
 
-- Create a new branch for your fix using the command `git checkout -b branch-name-here`.
+- Create a new branch for your fixes using the command `git checkout -b branch-name-here`.
 
 - Make the appropriate changes for the issue you are trying to address or the feature that you want to add.
 
