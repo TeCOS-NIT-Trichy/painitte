@@ -38,9 +38,9 @@ Welcome to semester 1.
 ### CHIR11-Chemistry
 
 - Question Papers:<br/>
-  [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-1](https://drive.google.com/drive/folders/12TOLspFCP_QYc--V2v6vE51OxUvmrsR6?usp=share_link) &nbsp; | &nbsp;
+  [CT-2](https://drive.google.com/drive/folders/1h1cBQlTDeaFl8bQtnbAuyfQxPzA05J66?usp=share_link) &nbsp; | &nbsp;
+  [End sem](https://drive.google.com/drive/folders/10bicU1NaSQ2c0lEfQS8H_Dlv5u9R20ct?usp=share_link)
 - Resources:<br/>
   To be added
 
