@@ -107,6 +107,10 @@ const config = {
                 label: "Linktree",
                 href: "https://linktr.ee/TechnicalCouncilNITT",
               },
+              {
+                label: "WhatsApp",
+                href: "https://chat.whatsapp.com/CQ0LXqibJjCESfdnWrIbRR",
+              },
             ],
           },
           {
