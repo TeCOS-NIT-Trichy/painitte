@@ -13,7 +13,7 @@ const config = {
   baseUrl: "/painitte/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/painitte_favicon.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,7 +59,7 @@ const config = {
         title: "PaiNITTe",
         logo: {
           alt: "Painite Logo",
-          src: "img/logo.svg",
+          src: "img/painitte_logo.png",
         },
         items: [
           {
