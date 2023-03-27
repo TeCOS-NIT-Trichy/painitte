@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tecos-nit-trichy.github.io/painitte/blog"/>
     <subtitle>PaiNITTe Blog</subtitle>
-    <icon>https://tecos-nit-trichy.github.io/painitte/img/favicon.ico</icon>
+    <icon>https://tecos-nit-trichy.github.io/painitte/img/painitte_favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Technical Council]]></title>
         <id>https://tecos-nit-trichy.github.io/painitte/blog/Welcome</id>
