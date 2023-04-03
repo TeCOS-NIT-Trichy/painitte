@@ -9,7 +9,7 @@ sidebar_position: 2
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
   [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [End sem](https://drive.google.com/file/d/1YjUE4nZvablSAxqj3SBDs_WC2BXGHh0c/view?usp=sharing)
 - Resources:<br/>
   To be added
 
@@ -17,8 +17,8 @@ sidebar_position: 2
 
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [End sem](https://drive.google.com/file/d/16cUZ45fY0KTtjMJOh09bCkWFFvQ6h5Ht/view?usp=sharing)
+  [CT-2](https://drive.google.com/file/d/1YjoYvetWb8XfTSIzhgfUnDkHAVdl33Wp/view?usp=sharing) &nbsp; | &nbsp;
+  [End sem](https://drive.google.com/file/d/1YiiiY3CP-eIKIj4QVcEBOckplzfHLnLX/view?usp=sharing)
 - Resources:<br/>
   https://nitturl-my.sharepoint.com/:f:/g/personal/114120074_nitt_edu/EqmmbYSi9L9HrP5WPXPrJO0BVNAB4ADikquAk99dPoGjMQ?e=P9if7n
 
@@ -35,8 +35,8 @@ sidebar_position: 2
 
 - Question Papers:<br/>
   [CT-1](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-) &nbsp; | &nbsp;
-  [CT-2](https://drive.google.com/file/d/16GtohxaoDQpW5DuLoHxFDj8HmLP4sUhA/view?usp=drivesdk) &nbsp; | &nbsp;
-  [End sem](https://tecos-nit-trichy.github.io/painitte/blog#how-do-i-make-a-contribution-)
+  [CT-2](https://drive.google.com/file/d/1Yk48W5a0qW6qGxFawdwwXfEE7UbEQZL7/view?usp=sharing) &nbsp; | &nbsp;
+  [End sem](https://drive.google.com/file/d/16asjTKaLwVWjTKLsBMZzoUi2JTynavHp/view?usp=sharing)
 - Resources:<br/>
   https://nitturl-my.sharepoint.com/:f:/g/personal/114120074_nitt_edu/EmUxInMJqAxLm8t4pAKNh-UBcTvN0NeY5R57RCkobl9vMw?e=vkNaYE
 
