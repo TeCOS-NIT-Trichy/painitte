@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[8894],{8894:(e,t,c)=>{c.r(t)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[6716],{7201:t=>{t.exports=JSON.parse('{"label":"NITT","permalink":"/painitte/blog/tags/nitt","allTagsPath":"/painitte/blog/tags","count":1}')}}]);

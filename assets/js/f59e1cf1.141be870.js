@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpainite_tc=self.webpackChunkpainite_tc||[]).push([[485],{3398:e=>{e.exports=JSON.parse('{"title":"Architecture","slug":"/category/architecture","permalink":"/painitte/docs/category/architecture","navigation":{"previous":{"title":"Home page","permalink":"/painitte/docs/intro"},"next":{"title":"Home","permalink":"/painitte/docs/Archi/"}}}')}}]);
